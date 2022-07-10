@@ -1,7 +1,5 @@
 package pe.edu.upeu.app;
 
-import pe.edu.upeu.gui.MainGUI;
-
 /**
  * Hello world!
  *
