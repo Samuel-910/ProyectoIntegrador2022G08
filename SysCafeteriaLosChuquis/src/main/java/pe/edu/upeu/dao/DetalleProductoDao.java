@@ -20,7 +20,7 @@ public class DetalleProductoDao extends AppCrud {
     public void crearDetalleProducto() {
         leerA = new LeerArchivo(TABLA_DETALLEPRODUCTO);
         dpTo = new DetalleProductoTO();
-        String idDPro = generarId(leerA, 0, "DP", 1);
+        String idDPro = generarId(leerA, 0, "DP", 2);
         dpTo.setIdDProducto(idDPro);
         dpTo.setNombreDProd(leerT.leer("", "Nombre Producto"));
         mostrarCategoria();
