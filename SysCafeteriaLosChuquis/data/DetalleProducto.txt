@@ -1,1 +1,12 @@
 DP1	Espresso	Unidad	C1	P1	5.5	1.0	100.0	5.0
+DP2	Americano	Unidad	C1	P2	7.5	2.0	100.0	5.0
+DP3	Capuccino	Unidad	C1	P3	8.0	2.0	98.0	5.0
+DP4	Chocolate	Unidad	C2	P4	11.5	2.5	94.0	5.0
+DP5	Pi�a_colada	Unidad	C2	P5	7.0	2.0	100.0	5.0
+DP6	Platano	Unidad	C2	P6	5.0	1.0	100.0	5.0
+DP7	Botella de agua	Unidad	C3	P7	2.0	0.5	100.0	5.0
+DP8	Soda	Unidad	C3	P8	3.0	1.0	100.0	5.0
+DP9	Agua mineral	Unidad	C3	P9	4.0	1.0	100.0	5.0
+DP10	Manzanilla	Unidad	C4	P10	7.0	2.0	100.0	5.0
+DP11	Hiervabuena	Unidad	C4	P11	10.0	2.5	100.0	5.0
+DP12	Te negro	Unidad	C4	P12	7.5	2.0	100.0	5.0
