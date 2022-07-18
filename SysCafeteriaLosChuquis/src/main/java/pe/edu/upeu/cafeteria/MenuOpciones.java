@@ -44,8 +44,7 @@ public class MenuOpciones {
                 case 4: new ProductoDao().crearProducto();break;
                 case 5: new DetalleProductoDao().crearDetalleProducto();break;
                 case 6: new VentaDao().registroVentaGeneral();break;
-                case 7: new VentaDao().reporteVentas();break;
-                case 8: new VentaDao().reporteVentasRangoFecha();break;
+                case 7: new VentaDao().reporteVentasRangoFecha();break;
                 default: System.out.println("Opcion erronea!"); break;
             }
             char continuar=leerT.leer("", "Desea continuar? S=si/N=no")
